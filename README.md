@@ -2,7 +2,7 @@
 
 **VIVS Legal is a Navi Mumbai law firm whose public website is featured in [Tech Conversion](https://techconversion.tech)'s portfolio. The site brings property law, banking and debt recovery, family matters, NRI legal services and other practice areas together, giving clients clearer routes to find relevant information and contact the firm.**
 
-![VIVS Legal website transformation artwork from the Tech Conversion portfolio presentation]([images/vivs-legal-portfolio-showcase.webp](https://github.com/user-attachments/assets/5349c5c4-a9b4-44ca-b4de-6e075c5ea2ff))
+![VIVS Legal website transformation artwork from the Tech Conversion portfolio presentation](vivs-legal-portfolio-showcase.webp](https://github.com/user-attachments/assets/5349c5c4-a9b4-44ca-b4de-6e075c5ea2ff))
 
 
 
