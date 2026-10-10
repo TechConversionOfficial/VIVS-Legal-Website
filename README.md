@@ -53,7 +53,7 @@ The points above describe the visible website experience. Detailed project-speci
 
 The included visual is sourced from a Tech Conversion portfolio presentation and is stored **inside this repository**, not hotlinked from another website. Its left and right panels are labelled 'Before' and 'After' in the original artwork, but they should be read as a **presentation mockup** until authenticated website screenshots are supplied.
 
-![VIVS Legal transformation presentation showing two website design treatments](images/vivs-legal-portfolio-showcase.webp)
+![VIVS Legal transformation presentation showing two website design treatments]([images/vivs-legal-portfolio-showcase.webp](https://github.com/user-attachments/assets/edbb08fa-a4f4-4de0-9d07-905b287a8acd))
 
 To add an authenticated before-and-after comparison, capture the old and new pages at equivalent desktop viewport sizes, obtain permission to publish the images and upload them under `images/`. Do not label those captures as measured conversion or performance improvements without supporting records.
 
