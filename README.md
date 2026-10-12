@@ -1,104 +1,158 @@
-# VIVS Legal website: clearer legal services and a simpler route to enquiries
+# VIVS Legal Website Redesign | Legal Services Website by Tech Conversion
 
-**VIVS Legal is a Navi Mumbai law firm whose public website is featured in [Tech Conversion](https://techconversion.tech)'s portfolio. The site brings property law, banking and debt recovery, family matters, NRI legal services and other practice areas together, giving clients clearer routes to find relevant information and contact the firm.**
+**A clearer digital presence for a Navi Mumbai law firm.** [VIVS Legal](https://vivs.in/) is a legal practice serving individuals, businesses and non-resident Indians. [Tech Conversion](https://techconversion.tech/) rebuilt the firm's previously dense website around two questions prospective clients bring to a law firm's site: **Can this firm handle my matter? How do I reach the right team?**
 
-# VIVS Legal Portfolio Showcase
+<p align="center">
+  <a href="https://vivs.in/" title="Visit VIVS Legal's website">
+    <img src="https://techconversion.tech/_next/image?dpl=20261010180527-7df4f9d2&amp;q=75&amp;url=%2Fmedia%2Fportfolio%2Fvivs-legal-website-card-v2.webp&amp;w=3840" alt="VIVS Legal redesigned website shown on desktop and mobile, showcased by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-![VIVS Legal website transformation artwork](https://github.com/user-attachments/assets/5349c5c4-a9b4-44ca-b4de-6e075c5ea2ff)
+<p align="center">
+  <a href="https://vivs.in/"><strong>Live website</strong></a> &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/case-studies/vivs-legal"><strong>Official case study</strong></a> &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Full-height before &amp; after viewer</strong></a> &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Portfolio</strong></a>
+</p>
 
-
-
-*Portfolio artwork from Tech Conversion's transformation showcase. This is a presentation mockup, not an independently authenticated pair of browser screenshots.*
+## Project at a glance
 
 | | |
-|---|---|
+| :--- | :--- |
 | **Client** | VIVS Legal |
-| **Website** | [vivs.in](https://vivs.in/) |
-| **Industry** | Legal services; property, BFSI and litigation |
+| **Live website** | [vivs.in](https://vivs.in/) |
 | **Location** | Sanpada, Navi Mumbai, Maharashtra, India |
-| **Website project featured by** | [Tech Conversion](https://techconversion.tech), Chennai, India |
-| **Project category** | Law firm website design and development |
-| **Portfolio and case-study listings** | [Tech Conversion portfolio](https://techconversion.tech/portfolio) · [Case studies](https://techconversion.tech/case-studies/) |
+| **Industry** | Legal and professional services |
+| **Project** | Law-firm website redesign and development |
+| **Audience** | Individuals, businesses, financial institutions and NRIs looking for relevant legal services in India |
+| **Focus** | Clear practice-area information, easier navigation, discoverability and straightforward contact pathways |
+| **Work showcased by** | [Tech Conversion Persuasive Private Limited](https://techconversion.tech/), Chennai, India |
+| **Related work areas** | Corporate websites, SEO and Google Business Profile, as listed by Tech Conversion |
+| **Project case study** | [techconversion.tech/case-studies/vivs-legal](https://techconversion.tech/case-studies/vivs-legal) |
 
-## About the business
+## About VIVS Legal
 
-VIVS Legal describes itself as a Navi Mumbai law firm providing legal services since 2010. It advises individuals, businesses, lenders and non-resident Indians on matters that include property documentation, property disputes, title search, debt resolution, family law and civil claims.
+VIVS Legal describes itself as a Navi Mumbai law firm providing legal services since 2010. Its published website covers matters such as **property and title verification, real estate disputes, banking and debt-recovery matters, corporate and employment law, consumer disputes, wills and NRI legal services**.
 
-- **What it does:** property title verification and due diligence, property disputes and RERA matters, debt recovery and related litigation, family and consumer matters, motor accident claims, wills and NRI legal services.
-- **Who it serves:** people seeking legal advice in the Mumbai metropolitan area; businesses and financial institutions with legal and recovery matters; and NRIs who need help with legal matters in India.
-- **What visitors need:** a quick way to identify the right area of law, understand whether the firm handles the matter and find a clear route to make an enquiry.
-
-The firm's principal office is in Sanpada, Navi Mumbai. Clients can contact the firm to arrange a consultation, including remote discussions where offered.
+Different visitors arrive with different questions. A property purchaser researching title documentation, an organisation navigating a banking dispute and an NRI seeking advice about an Indian property matter do not need the same first page. The website helps these audiences navigate to relevant practice information and the firm's contact details.
 
 ## The website challenge
 
-A multidisciplinary law firm has to explain several different services without forcing visitors to work through legal jargon or a long, undifferentiated list. A property buyer searching for title verification has different needs from a bank dealing with debt recovery or an NRI handling an Indian inheritance matter.
+The former site placed substantial information on one experience without making the key practice areas or the next contact step sufficiently clear. For someone unfamiliar with legal terminology, finding the right subject should not mean reading through an unstructured catalogue of services.
 
-For that reason, the website must make three things clear: **which legal matters the firm covers, where the visitor should go next and how to contact the team**. These are the communication requirements observable from the published site, not documented failures of any previous version.
+The redesign prioritised:
 
-## How the website presents VIVS Legal
+- **Understandability:** let visitors recognise whether the firm handles their kind of matter.
+- **Organisation:** make different legal-service categories easier to browse.
+- **Credibility:** present the practice, its professionals and its subject areas coherently.
+- **Access:** provide a clear path to the firm's own contact and consultation information.
+- **Smaller screens:** make the experience usable for visitors researching from a phone.
 
-1. **Distinct service routes.** Property, NRI, family, corporate, debt-resolution and dispute-related subjects are separated into recognisable practice areas.
-2. **Clear geographic relevance.** The website identifies the firm's Navi Mumbai base and includes city-focused legal service information for people searching in different markets.
-3. **Useful explanations.** Practice pages explain the types of cases and documents involved, rather than relying solely on broad claims about the firm.
-4. **Consultation pathways.** Calls to action and contact details give readers a next step after reviewing the relevant services.
-5. **Support for NRI visitors.** Dedicated information addresses legal matters in India for people living overseas, including property and family-law concerns.
-6. **A visible practice structure.** Navigation distinguishes legal services, practice areas and supporting information, making the broad offering easier to scan.
+These points describe the brief and visible communication changes; they are not claims about measured traffic, conversions or revenue.
 
-The points above describe the visible website experience. Detailed project-specific implementation records, development framework and testing outcomes were not available for independent verification.
+---
 
-## Website and portfolio visuals
+## Before & after: VIVS Legal website redesign
 
-### Tech Conversion transformation showcase
+### Website transformation overview
 
-The included visual is sourced from a Tech Conversion portfolio presentation and is stored **inside this repository**, not hotlinked from another website. Its left and right panels are labelled 'Before' and 'After' in the original artwork, but they should be read as a **presentation mockup** until authenticated website screenshots are supplied.
+The following comparison is published by Tech Conversion. It shows the previous site's opening design alongside the redesigned presentation.
 
-![VIVS Legal transformation presentation showing two website design treatments](https://github.com/user-attachments/assets/f5a09bfd-2c85-4f04-bdda-7f925bf5f909)
+[![VIVS Legal website redesign before and after — original and rebuilt home-page presentation](https://techconversion.tech/api/media/before-after/vivs-legal-before-after.webp)](https://techconversion.tech/before-after)
 
-To add an authenticated before-and-after comparison, capture the old and new pages at equivalent desktop viewport sizes, obtain permission to publish the images and upload them under `images/`. Do not label those captures as measured conversion or performance improvements without supporting records.
+**Before:** a dark blue legal-services page with a prominent investigation/verification message and several text-heavy blocks.
 
-## Visitor journeys
+**After:** a more structured opening screen presenting the VIVS Legal brand, the legal professionals, the firm's practice direction and next-step navigation.
 
-| Visitor's goal | Published website route |
-|---|---|
-| Understand the firm | [VIVS Legal home](https://vivs.in/) |
-| Explore legal services | [Legal Services](https://vivs.in/legal-services/) |
-| Find property-law guidance in Mumbai | [Property Lawyer Mumbai](https://vivs.in/legal-services/property-lawyer-india/mumbai/) |
-| Understand NRI legal services | [NRI Legal Services](https://vivs.in/nri-legal-services/) |
-| Explore debt recovery and litigation | [Debt Resolution & Litigation](https://vivs.in/debt-resolution-litigation/) |
-| Contact the firm | Use the consultation and contact routes provided on [vivs.in](https://vivs.in/) |
+> **Important:** This image is Tech Conversion's published comparison artwork, not a pair of independently captured full-height browser screenshots. For the complete historical pages, use the interactive comparison below.
 
-## Quality standards to check
+### Full-length BEFORE and AFTER comparison
 
-A legal-services website should be reviewed against recognised accessibility, search and performance guidance. Relevant references include:
+**[View the original and redesigned VIVS Legal home pages side by side, full height on Tech Conversion →](https://techconversion.tech/before-after)**
 
-- [Core Web Vitals](https://web.dev/articles/vitals) for user-perceived loading, responsiveness and visual stability.
-- [WCAG 2.2](https://www.w3.org/TR/WCAG22/) for accessible contrast, labels, keyboard operation and focus behaviour.
-- [Google Search Essentials](https://developers.google.com/search/docs/essentials) for foundational search visibility practices.
-- [Schema.org](https://schema.org/) for appropriate organisation, breadcrumb and page-level structured data.
-- [Digital Personal Data Protection framework](https://www.meity.gov.in/data-protection-framework) for applicable handling of personal data submitted through enquiries.
+On the official [Before & After page](https://techconversion.tech/before-after), choose **Vivs Legal** to open the full-height comparison, where the old page and the delivered redesign can be scrolled together. This is the available source for reviewing both full-length versions without substituting invented screenshots.
 
-**Verification note:** These are relevant standards, not a claim that this particular build has passed an independent performance, accessibility, legal-compliance or security audit.
+### Full-page screenshot: redesigned website (AFTER)
 
-## Results
+This is the **full-height website image** included in [Tech Conversion's VIVS Legal case study](https://techconversion.tech/case-studies/vivs-legal), not just the top-fold hero section.
 
-VIVS Legal is publicly featured in Tech Conversion's case-study listings. However, no project-specific figures with independently checked sources were available for this README. This repository therefore makes **no numerical claims** about increased enquiries, search rankings, conversion rate, page speed or business revenue.
+[**Open the full-resolution redesigned home-page screenshot**](https://techconversion.tech/_next/image?dpl=20261010180527-7df4f9d2&q=75&url=%2Fmedia%2Fcase-studies%2Ffull-pages%2Fvivs.in_-scaled.webp&w=3840)
 
-Verified metrics may be added later with the relevant analytics source, reporting dates, measurement definitions and the client's approval.
+![VIVS Legal complete redesigned website homepage screenshot, captured from top to bottom](https://techconversion.tech/_next/image?dpl=20261010180527-7df4f9d2&q=75&url=%2Fmedia%2Fcase-studies%2Ffull-pages%2Fvivs.in_-scaled.webp&w=3840)
+
+*Full-page screenshot supplied in the official project case study. It documents the redesign at the time of capture; the client may subsequently update the live site.*
+
+### Responsive website presentation
+
+The original portfolio showcase displays the new visual identity in **desktop and mobile** formats. Open the image below to inspect its details:
+
+[![VIVS Legal website on desktop and mobile — official Tech Conversion portfolio mockup](https://techconversion.tech/_next/image?dpl=20261010180527-7df4f9d2&q=75&url=%2Fmedia%2Fportfolio%2Fvivs-legal-website-card-v2.webp&w=3840)](https://techconversion.tech/portfolio)
+
+---
+
+## What changed in the website experience
+
+| Area | Redesign focus |
+| :--- | :--- |
+| **First impression** | Introduces the firm and its legal-service focus more directly. |
+| **Information hierarchy** | Moves away from a dense, generic presentation toward clearer headings and sections. |
+| **Practice areas** | Surfaces real estate, BFSI, corporate and other legal matters through more recognisable categories. |
+| **People and credibility** | Gives visible space to the firm and its professionals. |
+| **Navigation** | Provides distinct routes for NRI legal services, legal services, practice areas and related information. |
+| **Contact path** | Connects visitors to the firm's published contact and consultation routes. |
+| **Responsive layout** | Presents the experience for both desktop and mobile devices. |
+
+## Project approach
+
+Tech Conversion's published case study describes its general website-delivery approach: reviewing the prior experience from the visitor's perspective, deciding the information structure before design, building and reviewing actual pages, addressing search structure during implementation, working to a performance budget and handing client-owned assets and accounts over at completion.
+
+For VIVS Legal, the visible outcome reflects the central goal of this approach: make the firm's areas of practice understandable and its next steps easy to find. The specific framework, hosting configuration, source-code implementation and audit records are **not publicly documented here**, so no technology stack or test results are invented.
+
+## Key visitor routes
+
+| Visitor need | Public website |
+| :--- | :--- |
+| Learn about the firm | [VIVS Legal home](https://vivs.in/) |
+| Browse legal services | [Legal services](https://vivs.in/legal-services/) |
+| Explore NRI-related matters | [NRI legal services](https://vivs.in/nri-legal-services/) |
+| Review practice areas | [Practice areas](https://vivs.in/practice-areas/) |
+| Find contact information | [VIVS Legal](https://vivs.in/) |
+
+## Standards and responsible presentation
+
+Law-firm websites demand additional care with client confidentiality and the professional rules that govern publicity. Tech Conversion's published materials reference the **Bar Council of India Rules, Rule 36**, alongside accessibility, web performance, search and data-handling guidance.
+
+Relevant references include [WCAG 2.2](https://www.w3.org/TR/WCAG22/), [Core Web Vitals](https://web.dev/articles/vitals), [Google Search Essentials](https://developers.google.com/search/docs/essentials), and [Schema.org](https://schema.org/).
+
+**These are reference standards, not independent audit certifications for this specific implementation.** Legal descriptions and any consultation arrangements are those published by VIVS Legal itself, not legal advice offered by this repository.
+
+## Results and evidence
+
+The project is documented by Tech Conversion through a live client site, an official written case study, a portfolio image, a side-by-side transformation visual and a complete redesigned home-page capture.
+
+**No project-specific analytics were supplied for this repository.** It therefore does not assert a numerical improvement in enquiry volume, organic traffic, Google rankings, loading speed, conversion rate or revenue. Figures shown in the client's own website imagery are client-published statements, not independently verified redesign results.
 
 ## About Tech Conversion
 
-[Tech Conversion](https://techconversion.tech) (Tech Conversion Persuasive Private Limited) is a website design, development and digital marketing business based in Chennai, India. Its published services cover website experiences, search visibility and digital business growth.
+[Tech Conversion](https://techconversion.tech/) — **Tech Conversion Persuasive Private Limited** — is a Chennai-based website development and digital growth company working with businesses in India and internationally. Its public portfolio covers corporate websites, ecommerce, web platforms and digital marketing projects.
 
-- **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
-- **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
-- **About:** [techconversion.tech/about](https://techconversion.tech/about/)
-- **Website:** [techconversion.tech](https://techconversion.tech)
+- [Official website](https://techconversion.tech/)
+- [Website design portfolio](https://techconversion.tech/portfolio)
+- [VIVS Legal case study](https://techconversion.tech/case-studies/vivs-legal)
+- [Before & after showcase](https://techconversion.tech/before-after)
+- [Legal & professional services websites](https://techconversion.tech/industries/law-firms-professional-services)
+- [Get in touch](https://techconversion.tech/contact)
 
-## Repository scope and image credits
+---
 
-This public repository documents the website project. It does **not** contain the client's source code, privileged legal records, case files, client information, access credentials or internal systems.
+## Repository scope, image credits and usage
 
-The supplied image is portfolio-presentation artwork from the Tech Conversion showcase. It is included locally to keep the README image rendering independent of an external image host. Its use is limited to illustrating the portfolio presentation; it should not be mistaken for verified original browser screenshots.
+This is a **public portfolio case-study repository**, not a distribution of VIVS Legal's private application source code, client files, legal records, credentials or internal systems.
 
-**Official references:** [VIVS Legal](https://vivs.in/) · [Tech Conversion portfolio](https://techconversion.tech/portfolio)
+**Visual credits:** the responsive portfolio mockup, the before-and-after illustration and the full-page redesigned screenshot are sourced from [Tech Conversion](https://techconversion.tech/). The live legal practice and its materials belong to [VIVS Legal](https://vivs.in/) and the relevant rights holders.
+
+**Image availability:** this README embeds publicly hosted HTTPS assets. The images are visible only while Tech Conversion continues serving their URLs. To make them independent of future website updates, download *authorised* copies and add them to this repository's `images/` folder, then change these references to relative paths. A standalone, verifiable old-site full-page image URL was not published in the sources inspected; the official interactive [full-height before-and-after viewer](https://techconversion.tech/before-after) is linked instead.
+
+**References:** [Live website](https://vivs.in/) · [Project case study](https://techconversion.tech/case-studies/vivs-legal) · [Portfolio](https://techconversion.tech/portfolio) · [Before/after viewer](https://techconversion.tech/before-after)
+
+*Portfolio case study by [Tech Conversion](https://techconversion.tech/).*
