@@ -3,10 +3,12 @@
 **A clearer digital presence for a Navi Mumbai law firm.** [VIVS Legal](https://vivs.in/) is a legal practice serving individuals, businesses and non-resident Indians. [Tech Conversion](https://techconversion.tech/) rebuilt the firm's previously dense website around two questions prospective clients bring to a law firm's site: **Can this firm handle my matter? How do I reach the right team?**
 
 <p align="center">
-  <a href="https://vivs.in/" title="Visit VIVS Legal's website">
-    <img src="https://techconversion.tech/_next/image?dpl=20261010180527-7df4f9d2&amp;q=75&amp;url=%2Fmedia%2Fportfolio%2Fvivs-legal-website-card-v2.webp&amp;w=3840" alt="VIVS Legal redesigned website shown on desktop and mobile, showcased by Tech Conversion" width="100%" />
+  <a href="https://techconversion.tech/api/media/portfolio/vivs-legal-website-mockup-new.webp" title="View the VIVS Legal website portfolio mockup at full size">
+    <img src="https://techconversion.tech/api/media/portfolio/vivs-legal-website-mockup-new.webp" alt="VIVS Legal website redesign: official responsive website portfolio mockup by Tech Conversion" width="100%" />
   </a>
 </p>
+
+<p align="center"><em>Official VIVS Legal website portfolio showcase by Tech Conversion. Click the image to view it at full resolution.</em></p>
 
 <p align="center">
   <a href="https://vivs.in/"><strong>Live website</strong></a> &nbsp;·&nbsp;
@@ -56,37 +58,58 @@ These points describe the brief and visible communication changes; they are not 
 
 ### Website transformation overview
 
-The following comparison is published by Tech Conversion. It shows the previous site's opening design alongside the redesigned presentation.
+The official before-and-after visual shows the original VIVS Legal home-page design next to the redesigned presentation. Click the comparison image to view the original artwork at full size.
 
-[![VIVS Legal website redesign before and after — original and rebuilt home-page presentation](https://techconversion.tech/api/media/before-after/vivs-legal-before-after.webp)](https://techconversion.tech/before-after)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/vivs-legal-before-after.webp" title="Open the complete before-and-after website mockup">
+    <img src="https://techconversion.tech/api/media/before-after/vivs-legal-before-after.webp" alt="VIVS Legal website redesign comparison mockup: original website on the left and redesigned website on the right" width="100%" />
+  </a>
+</p>
 
-**Before:** a dark blue legal-services page with a prominent investigation/verification message and several text-heavy blocks.
+**Before:** a dark-blue legal-services page with an investigation and verification message and several text-heavy content sections.
 
-**After:** a more structured opening screen presenting the VIVS Legal brand, the legal professionals, the firm's practice direction and next-step navigation.
+**After:** a clearer presentation of VIVS Legal, its legal professionals, its areas of practice and the routes to a consultation.
 
-> **Important:** This image is Tech Conversion's published comparison artwork, not a pair of independently captured full-height browser screenshots. For the complete historical pages, use the interactive comparison below.
+*This branded image is a portfolio comparison mockup. The next section contains separate, full-length website screenshots, rather than the cropped views shown in the mockup.*
 
-### Full-length BEFORE and AFTER comparison
+### Full-page website screenshots: BEFORE vs AFTER
 
-**[View the original and redesigned VIVS Legal home pages side by side, full height on Tech Conversion →](https://techconversion.tech/before-after)**
+These are the **complete, long home-page screenshots** supplied through Tech Conversion's image library, displayed side by side with equal column widths. Both images retain their original aspect ratios without cropping. Click either image to open its full-size version.
 
-On the official [Before & After page](https://techconversion.tech/before-after), choose **Vivs Legal** to open the full-height comparison, where the old page and the delivered redesign can be scrolled together. This is the available source for reviewing both full-length versions without substituting invented screenshots.
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="center">BEFORE — Original Website</th>
+      <th width="50%" align="center">AFTER — Redesigned Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/vivs-legal-old-website-home-page.webp" title="Open original VIVS Legal website full-length screenshot">
+          <img src="https://techconversion.tech/api/media/before-after/vivs-legal-old-website-home-page.webp" alt="VIVS Legal original website: full-page home-page screenshot before the Tech Conversion redesign" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/vivs-legal-new-website-home-page.webp" title="Open redesigned VIVS Legal website full-length screenshot">
+          <img src="https://techconversion.tech/api/media/before-after/vivs-legal-new-website-home-page.webp" alt="VIVS Legal redesigned website: full-page home-page screenshot after the Tech Conversion redesign" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### Full-page screenshot: redesigned website (AFTER)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/vivs-legal-old-website-home-page.webp"><strong>View full-size BEFORE screenshot</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/vivs-legal-new-website-home-page.webp"><strong>View full-size AFTER screenshot</strong></a>
+</p>
 
-This is the **full-height website image** included in [Tech Conversion's VIVS Legal case study](https://techconversion.tech/case-studies/vivs-legal), not just the top-fold hero section.
+*The images document the website designs at their respective capture dates. The current live site may have changed since the redesign.*
 
-[**Open the full-resolution redesigned home-page screenshot**](https://techconversion.tech/_next/image?dpl=20261010180527-7df4f9d2&q=75&url=%2Fmedia%2Fcase-studies%2Ffull-pages%2Fvivs.in_-scaled.webp&w=3840)
+### Official interactive comparison
 
-![VIVS Legal complete redesigned website homepage screenshot, captured from top to bottom](https://techconversion.tech/_next/image?dpl=20261010180527-7df4f9d2&q=75&url=%2Fmedia%2Fcase-studies%2Ffull-pages%2Fvivs.in_-scaled.webp&w=3840)
-
-*Full-page screenshot supplied in the official project case study. It documents the redesign at the time of capture; the client may subsequently update the live site.*
-
-### Responsive website presentation
-
-The original portfolio showcase displays the new visual identity in **desktop and mobile** formats. Open the image below to inspect its details:
-
-[![VIVS Legal website on desktop and mobile — official Tech Conversion portfolio mockup](https://techconversion.tech/_next/image?dpl=20261010180527-7df4f9d2&q=75&url=%2Fmedia%2Fportfolio%2Fvivs-legal-website-card-v2.webp&w=3840)](https://techconversion.tech/portfolio)
+For an additional way to explore the transformation, visit [Tech Conversion's Before & After gallery](https://techconversion.tech/before-after) and select **VIVS Legal**.
 
 ---
 
@@ -128,7 +151,7 @@ Relevant references include [WCAG 2.2](https://www.w3.org/TR/WCAG22/), [Core Web
 
 ## Results and evidence
 
-The project is documented by Tech Conversion through a live client site, an official written case study, a portfolio image, a side-by-side transformation visual and a complete redesigned home-page capture.
+The project is documented by Tech Conversion through the live client site, a written case study, the responsive portfolio mockup, the before-and-after transformation artwork and individual full-page screenshots of both the original and redesigned home pages.
 
 **No project-specific analytics were supplied for this repository.** It therefore does not assert a numerical improvement in enquiry volume, organic traffic, Google rankings, loading speed, conversion rate or revenue. Figures shown in the client's own website imagery are client-published statements, not independently verified redesign results.
 
@@ -149,9 +172,9 @@ The project is documented by Tech Conversion through a live client site, an offi
 
 This is a **public portfolio case-study repository**, not a distribution of VIVS Legal's private application source code, client files, legal records, credentials or internal systems.
 
-**Visual credits:** the responsive portfolio mockup, the before-and-after illustration and the full-page redesigned screenshot are sourced from [Tech Conversion](https://techconversion.tech/). The live legal practice and its materials belong to [VIVS Legal](https://vivs.in/) and the relevant rights holders.
+**Visual credits:** the responsive portfolio mockup, the transformation comparison and both full-page website screenshots are linked from [Tech Conversion](https://techconversion.tech/). The live legal practice and its materials belong to [VIVS Legal](https://vivs.in/) and the relevant rights holders.
 
-**Image availability:** this README embeds publicly hosted HTTPS assets. The images are visible only while Tech Conversion continues serving their URLs. To make them independent of future website updates, download *authorised* copies and add them to this repository's `images/` folder, then change these references to relative paths. A standalone, verifiable old-site full-page image URL was not published in the sources inspected; the official interactive [full-height before-and-after viewer](https://techconversion.tech/before-after) is linked instead.
+**Image availability:** all four visuals in this README use their direct Tech Conversion HTTPS image URLs, supplied for this project. They are embedded rather than stored inside this repository and will remain visible while those URLs are publicly served. To make the screenshots independent of future website changes, save authorised copies under an `images/` folder and change the README to relative image paths. You can also explore the [interactive before-and-after viewer](https://techconversion.tech/before-after).
 
 **References:** [Live website](https://vivs.in/) · [Project case study](https://techconversion.tech/case-studies/vivs-legal) · [Portfolio](https://techconversion.tech/portfolio) · [Before/after viewer](https://techconversion.tech/before-after)
 
